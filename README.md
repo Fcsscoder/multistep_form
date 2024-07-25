@@ -30,7 +30,7 @@ Este projeto é uma aplicação React que implementa um formulário multi-etapas
 - `src/components`: Contém os componentes do formulário (UserForm, ReviewForm, Thanks).
 - `src/hooks`: Contém hooks personalizados utilizados no projeto.
 - `src/App.js`: Componente principal que controla a navegação entre as etapas.
-- `public/index.html`: Página HTML onde a aplicação React é renderizada.
+- `index.html`: Página HTML onde a aplicação React é renderizada.
 
 ## Como Executar o Projeto
 

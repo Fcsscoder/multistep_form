@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <a href="https://react.dev">
+    <img src="https://skillicons.dev/icons?i=react" width="100" />
+  </a>
 </p>
+
 
 # Formulário de Avaliação Multi-etapas
 

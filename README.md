@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b79961b6-6030-406c-a87d-08a91e90138f)<p align="center">
+<p align="center">
   <a href="https://react.dev">
     <img src="https://skillicons.dev/icons?i=react" width="100" />
   </a>
@@ -7,7 +7,6 @@
 # Formulário de Avaliação Multi-etapas
 
 Este projeto é uma aplicação React que implementa um formulário multi-etapas para avaliações de produtos. Os usuários podem fornecer seu feedback de maneira simples através de uma série de etapas, incluindo identificação, avaliação e envio.
-
 
 ![image](https://github.com/user-attachments/assets/724abf95-cb5e-4ea9-8901-4bb0a789954c)
 ![image](https://github.com/user-attachments/assets/19a8a4af-07c7-49c6-82c9-c00e7e6bf003)

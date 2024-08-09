@@ -30,7 +30,7 @@ const Thanks = ({ data }) => {
         {emojiData[data.review]}
       </p>
       <p className="review-data">
-        <span>Comentário:</span>
+        <span>Comentário: </span>
         {data.comment}
       </p>
     </div>

@@ -40,19 +40,13 @@ Este projeto é uma aplicação React que implementa um formulário multi-etapas
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 
-### 2. Navegue até o diretório do projeto:
-
-```bash
-cd nome-do-repositorio
-```
-
-### 3. Instale as dependências:
+### 2. Instale as dependências:
 
 ```bash
 npm install
 ```
 
-### 4. Execute a aplicação:
+### 3. Execute a aplicação:
 
 ```bash
 npm start
